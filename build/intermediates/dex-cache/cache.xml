@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/okio-1.11.0_433f73266fdb54a7440d86b44fc9decce0742872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/6ed13192bbf5acadec28167fde4ee9eba7974e81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_a3d94f172863d205a2aa1fb5cf9ffc5b37690fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/c16ddcd0d50f3ecd53828f53115a8387cf6b740d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_562206d3bf05e20e811401c76781d96c26d18258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/gson-2.7_1a8f2745db2d5e667fbed346bdbdd87f614568e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/eb2f87222540b2bb32cd25838987315df90b185e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_bd4189ae4037c22fa5ab6bf70787a5d89509bcda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-simplexml/2.2.0/3585dc3d225e2ca03af1a2cece159eb511fa0528/converter-simplexml-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3585dc3d225e2ca03af1a2cece159eb511fa0528">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/converter-simplexml-2.2.0_9dbe4d1aa52827957b23f5efa76b72d216f827c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_84dd1b9fcb83f73025d1276322a2965ac8ad258f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/e881633ae309440f3eba5057ac6195aca4fb55ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_0e163e615dd14c79e2ecce22741af6e87816a590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/e55360da1e4407140e3240b4fbfb781345e5cc55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_a9f4815444cb57d5cb22dc9c43ef1a29ef8ececb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_f57ab7a338e9bb266f834de04b4d4844718051e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/049949b8455384216f03331ca16b639bc35e1131/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_613a0b6ad281596c62dd6345ee9e1e3015757534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_ceb0b68e290a899a5a1ef2f3170ebddf3a63ebc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/75eca1845dd241510b24bd37727aa4fd598db9bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_2baabfcd539be136c155591762c1803cb185f7c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.gradle/caches/modules-2/files-2.1/org.simpleframework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1_dc9bbd3502dde00bd5214d76dbb262815000c80f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/56de30dac5f65f851eca81d6ee02e8272399c003/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_5efe4476e509b997251355496391f62819e8e071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/93cd1cd8ffaf689e7b9b246d6b85749f92fb0aa8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_72e1c28b7da3ff8db5ebbbd175db16e1d76de2b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/42b56e9a6df5655005337f4fa30ec2e9d67de3c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_864e58c9c2be336935c95b8ffcccc0cdfd37f027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_22364bc25bbd1109decebb99ff7575afe8893ef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_803a8fd8b34cb52c0fdfb37ef5f7afca618a90ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/5fe8001b3827e7753a63800f47294eedc7ccbff9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_3c673b75390e959ff976f40226f33cb0fe6a079b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/8a043e809f14c496e07e4a77e49ee977ad95a50f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_17448eeb08117285cf0a58bab2e666548378eeea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_00dd32638d885e79c219728373527aacf96ccffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/d5b901f65793eca9cd0d6607ea5aac217551fed4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_0f3ac1ab3595e23c581c636fbf038f885800c066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecom-aristo.m/.android/build-cache/52dadb978c9ed8db2d82a8ab5d073097086e7ea5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/ecom-aristo.m/Documents/Demo_projects/Reddit-RSS-App-master/Part18/RedditApp/app/build/intermediates/pre-dexed/debug/classes_5e637e06b075f303f94360752375b52465a2457e.jar" />
+    </item>
+
+</items>
